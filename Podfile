@@ -3,5 +3,4 @@
 
 target 'SignView' do
 pod ‘Masonry’
-
 end
